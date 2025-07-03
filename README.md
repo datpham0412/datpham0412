@@ -3,9 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datpham0412&label=Profile%20views&color=0e75b6&style=flat" alt="datpham0412" /> </p>
 
-
-- 🌱 I’m currently learning **- T3 stack - Prisma - TypeScript - Tailwind CSS - React - Next.js - tRPC - NextAuth**
-
 - 📫 How to reach me **tiendat041202@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
