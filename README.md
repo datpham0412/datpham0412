@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=datpham0412&label=Profile%20views&color=0e75b6&style=flat" alt="datpham0412" /> </p>
 
-- 📫 How to reach me **tiendat041202@gmail.com**
+- How to reach me **tiendat041202@gmail.com**
+
+- I’m currently working on [Membership Inference Attack in Vision Large Language Models](https://github.com/datpham0412/VLLM-MIA)
+
+- I’m currently learning **ASP.NET Core and Azure**
+
+- All of my projects are available at [https://www.datpham.dev/](https://www.datpham.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
