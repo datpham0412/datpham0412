@@ -7,7 +7,7 @@
 
 - I’m currently working on [Membership Inference Attack in Vision Large Language Models](https://github.com/datpham0412/VLLM-MIA)
 
-- I’m currently learning **Jetpack Compose**
+- I’m currently learning **Kotlin Multi Platform**
 
 - All of my projects are available at [https://www.datpham.dev/](https://www.datpham.dev/)
 
